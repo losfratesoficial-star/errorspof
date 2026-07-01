@@ -1,0 +1,1 @@
+{"success":true,"code":68,"message":"Initialized","sessionid":"9b6d619d","appinfo":{"numUsers":"N/A - Use fetch
